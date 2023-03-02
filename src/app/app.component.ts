@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'comingsoon';
   UnderMainImg:string="../assets/umimg.webp";
-  LogoImg:string="../assets/rm-logo.png"
+  // LogoImg:string="../assets/rm-logo.png"
   SvgPath:string=""
   
 }
